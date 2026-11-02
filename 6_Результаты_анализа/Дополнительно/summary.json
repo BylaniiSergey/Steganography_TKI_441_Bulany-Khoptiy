@@ -1,0 +1,30 @@
+{
+  "diff": {
+    "variant8": {
+      "total_pixels": 1572528,
+      "changed_pixels": 7874,
+      "changed_percent": 0.5007224036710316,
+      "total_deviation": 78266,
+      "max_deviation": 25,
+      "mean_deviation": 9.93980187960376,
+      "changed_by_channel": {
+        "R": 0,
+        "G": 0,
+        "B": 7874
+      }
+    },
+    "mountain": {
+      "total_pixels": 1137600,
+      "changed_pixels": 7875,
+      "changed_percent": 0.6922468354430379,
+      "total_deviation": 140964,
+      "max_deviation": 59,
+      "mean_deviation": 17.900190476190478,
+      "changed_by_channel": {
+        "R": 0,
+        "G": 0,
+        "B": 7875
+      }
+    }
+  }
+}

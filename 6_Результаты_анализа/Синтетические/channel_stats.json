@@ -1,0 +1,212 @@
+{
+  "uniform": {
+    "cover": {
+      "R": {
+        "mean": 128.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "G": {
+        "mean": 128.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "B": {
+        "mean": 128.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      }
+    },
+    "stego": {
+      "R": {
+        "mean": 128.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "G": {
+        "mean": 128.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "B": {
+        "mean": 127.901611328125,
+        "std": 2.294866488173887,
+        "entropy_bits": 0.23035382113665237,
+        "horizontal_correlation": -0.002335008420240043
+      }
+    }
+  },
+  "gradient": {
+    "cover": {
+      "R": {
+        "mean": 125.0,
+        "std": 43.466941461299065,
+        "entropy_bits": 7.1796875,
+        "horizontal_correlation": 0.999935397019167
+      },
+      "G": {
+        "mean": 125.0,
+        "std": 37.64710729259288,
+        "entropy_bits": 7.0234375,
+        "horizontal_correlation": 0.9999999999999998
+      },
+      "B": {
+        "mean": 120.0,
+        "std": 20.494322199859177,
+        "entropy_bits": 6.368796086734282,
+        "horizontal_correlation": 0.9998116167966873
+      }
+    },
+    "stego": {
+      "R": {
+        "mean": 125.0,
+        "std": 43.466941461299065,
+        "entropy_bits": 7.1796875,
+        "horizontal_correlation": 0.999935397019167
+      },
+      "G": {
+        "mean": 125.0,
+        "std": 37.64710729259288,
+        "entropy_bits": 7.0234375,
+        "horizontal_correlation": 0.9999999999999998
+      },
+      "B": {
+        "mean": 119.90206909179688,
+        "std": 20.578188576356606,
+        "entropy_bits": 6.378146914907863,
+        "horizontal_correlation": 0.9878376880939338
+      }
+    }
+  },
+  "edges": {
+    "cover": {
+      "R": {
+        "mean": 127.5,
+        "std": 92.5,
+        "entropy_bits": 1.0,
+        "horizontal_correlation": 0.9450980392156862
+      },
+      "G": {
+        "mean": 127.5,
+        "std": 62.5,
+        "entropy_bits": 1.0,
+        "horizontal_correlation": 0.9450980392156864
+      },
+      "B": {
+        "mean": 125.0,
+        "std": 85.0,
+        "entropy_bits": 1.0,
+        "horizontal_correlation": 0.9450980392156864
+      }
+    },
+    "stego": {
+      "R": {
+        "mean": 127.5,
+        "std": 92.5,
+        "entropy_bits": 1.0,
+        "horizontal_correlation": 0.9450980392156862
+      },
+      "G": {
+        "mean": 127.5,
+        "std": 62.5,
+        "entropy_bits": 1.0,
+        "horizontal_correlation": 0.9450980392156864
+      },
+      "B": {
+        "mean": 124.90104675292969,
+        "std": 84.9755584840476,
+        "entropy_bits": 1.2303417250072606,
+        "horizontal_correlation": 0.9443379277141682
+      }
+    }
+  },
+  "texture": {
+    "cover": {
+      "R": {
+        "mean": 127.03147888183594,
+        "std": 59.48033189629228,
+        "entropy_bits": 7.684183782458506,
+        "horizontal_correlation": 0.0019586761792650034
+      },
+      "G": {
+        "mean": 127.99432373046875,
+        "std": 59.371718901995926,
+        "entropy_bits": 7.684417075379397,
+        "horizontal_correlation": 0.003255906449859025
+      },
+      "B": {
+        "mean": 127.57740783691406,
+        "std": 59.20317259226633,
+        "entropy_bits": 7.684140804597021,
+        "horizontal_correlation": 0.0021320430238128837
+      }
+    },
+    "stego": {
+      "R": {
+        "mean": 127.03147888183594,
+        "std": 59.48033189629228,
+        "entropy_bits": 7.684183782458506,
+        "horizontal_correlation": 0.0019586761792650034
+      },
+      "G": {
+        "mean": 127.99432373046875,
+        "std": 59.371718901995926,
+        "entropy_bits": 7.684417075379397,
+        "horizontal_correlation": 0.003255906449859025
+      },
+      "B": {
+        "mean": 127.48056030273438,
+        "std": 59.24905938589907,
+        "entropy_bits": 7.697697798135669,
+        "horizontal_correlation": 0.0019424248904713103
+      }
+    }
+  },
+  "black": {
+    "cover": {
+      "R": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "G": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "B": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      }
+    },
+    "stego": {
+      "R": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "G": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      },
+      "B": {
+        "mean": 0.0,
+        "std": 0.0,
+        "entropy_bits": -0.0,
+        "horizontal_correlation": null
+      }
+    }
+  }
+}

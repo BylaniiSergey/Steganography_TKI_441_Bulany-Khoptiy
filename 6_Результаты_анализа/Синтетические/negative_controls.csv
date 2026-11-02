@@ -1,0 +1,11 @@
+﻿container,condition,ber_percent
+uniform,empty_cover,37.5
+uniform,wrong_key,53.125
+gradient,empty_cover,48.4375
+gradient,wrong_key,53.125
+edges,empty_cover,53.125
+edges,wrong_key,59.375
+texture,empty_cover,39.0625
+texture,wrong_key,45.3125
+black,empty_cover,37.5
+black,wrong_key,37.5
