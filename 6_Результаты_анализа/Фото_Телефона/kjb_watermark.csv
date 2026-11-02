@@ -1,0 +1,16 @@
+﻿watermark,key,ber_percent
+original,TKI-441,0.0
+original,trial-2,0.0
+original,trial-3,0.0
+inverted,TKI-441,0.0
+inverted,trial-2,0.0
+inverted,trial-3,0.0
+zeros,TKI-441,0.0
+zeros,trial-2,0.0
+zeros,trial-3,0.0
+ones,TKI-441,0.0
+ones,trial-2,0.0
+ones,trial-3,0.0
+random,TKI-441,0.0
+random,trial-2,0.0
+random,trial-3,0.0
