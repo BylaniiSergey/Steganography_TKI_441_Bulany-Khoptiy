@@ -1,0 +1,44 @@
+{
+  "synthetic_estimate": {
+    "0.1": {
+      "K_est": -0.0834,
+      "err_min": 0.076,
+      "err_at_0": 2.039
+    },
+    "0.2": {
+      "K_est": -0.1447,
+      "err_min": 0.245,
+      "err_at_0": 3.849
+    },
+    "-0.1": {
+      "K_est": 0.1292,
+      "err_min": 0.143,
+      "err_at_0": 2.316
+    },
+    "-0.2": {
+      "K_est": 0.3235,
+      "err_min": 0.508,
+      "err_at_0": 3.634
+    }
+  },
+  "photo": {
+    "valid_area_share": 0.983,
+    "K_d": 0.2,
+    "K_best": -0.1675,
+    "psnr_distorted": 11.01,
+    "psnr_corrected": 21.69,
+    "size": [
+      1448,
+      1086
+    ]
+  },
+  "interpolation": {
+    "ближайший сосед": 21.61,
+    "билинейная": 21.97,
+    "кубическая (B-сплайн)": 21.69
+  },
+  "padding": {
+    "K": -0.1447,
+    "percent_of_line_pixels_outside_original_frame": 1.11
+  }
+}
